@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "151508557276",
+    "firebase_url": "https://message-app-c5afd.firebaseio.com",
+    "project_id": "message-app-c5afd",
+    "storage_bucket": "message-app-c5afd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151508557276:android:a7105e2210bb8716400319",
+        "android_client_info": {
+          "package_name": "co.shivamkumar.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151508557276-5eh462qpjj0tdn8uph72dmrq4n6tp283.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtOSeiP65vsjKz0hLw8bQ75GTeA34w684"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151508557276-5eh462qpjj0tdn8uph72dmrq4n6tp283.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
